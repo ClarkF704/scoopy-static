@@ -106,6 +106,7 @@ body{
   position: relative;
   width:290px;
   height:450px;
+  float: right;
 }
 .about-shadow{
   margin:0 auto;
@@ -198,6 +199,23 @@ body{
 
   .colum-contact-photo{
     padding-top: 20px;
+  }
+
+  .about-img{
+    margin:25px 25px 25px 25px;
+    position: relative;
+    width:290px;
+    height:450px;
+  }
+  .about-shadow{
+    margin:0 auto;
+    height: 500px;
+    width: 350px;
+    margin-left:0px;
+    /* background: rgba(1,176,240,0.2); */
+    background: rgb(119,78,41);
+    position: absolute;
+    border:#000 solid 5px;
   }
 
 
